@@ -6,3 +6,8 @@ we present our model in this repo that achivievd fourth ranking in WANLP 2020 [l
 by runing train.py file you be able to start the training process.
 
 there are multipule params that can be changed in config_train.txt, a detailed explaination will be provided later on
+
+#credit
+
+hugging face repo [repo](https://sites.google.com/view/nadi-shared-task)
+farasa seg repo [repo](https://github.com/drelhaj/OsmanReadability)
